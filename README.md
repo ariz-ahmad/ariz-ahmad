@@ -1,5 +1,5 @@
 ### hello world! 👋
-
+[](https://github.com/ariz-ahmad/ariz-ahmad/blob/main/merge_from_ofoct%20(1).jpg)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariz-ahmad)](https://github.com/anuraghazra/github-readme-stats)
 
 
