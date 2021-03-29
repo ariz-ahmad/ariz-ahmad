@@ -21,6 +21,7 @@
 - 🌱 I’m currently learning Machine learning and Mobile development.
 - 👯 I’m looking to collaborate on open source software.
 - 🤔 I’m looking for a position as a Software Developer, Machine learning engineer or Data Scientist. 
+- 📫 How to reach me **ariz.ahmad@ufl.edu**
 - 💬 Ask me about Android development and Machine learning (and movies!)
 
 <!-- Icons -->
