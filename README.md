@@ -2,7 +2,7 @@
 
 
 
-### My name is Ariz. I am a software developer with Master's degree in Computer and Information Science from the University of Florida. I have extensive coursework in Machine learning and also have experience working with Android development. I have a passion for learning about new technologies. 
+### My name is Ariz. I am a software developer with Master's degree in Computer and Information Science from the University of Florida. I have extensive coursework in Software Development and Machine learning and also have experience working with Android development. I have a passion for learning about new technologies. 
 
 
 
