@@ -1,6 +1,6 @@
 ### Ariz Ahmad
 
-AI/ML Engineer building production RAG, agent, and ML systems — 6 years taking models from notebook to production, reliably and at scale. Currently at Microsoft.
+AI/ML Engineer building production RAG, agent, and ML systems — taking models from notebook to production, reliably and at scale. Currently at Microsoft.
 
 **Focus areas:** retrieval-augmented generation, multi-agent orchestration, on-device/efficient ML, and the data infrastructure underneath all of it.
 
