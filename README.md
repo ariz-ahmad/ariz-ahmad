@@ -1,10 +1,10 @@
 ### Ariz Ahmad
 
-AI/ML Engineer building production RAG, agent, and ML systems — taking models from notebook to production, reliably and at scale. 
+AI/ML Engineer building production RAG, agent, and ML systems — 6 years taking models from notebook to production, reliably and at scale. Currently at Microsoft.
 
 **Focus areas:** retrieval-augmented generation, multi-agent orchestration, on-device/efficient ML, and the data infrastructure underneath all of it.
 
-Pinned below spans those areas &mdash; a voice assistant running fully on-device (Ollama + MLX Whisper), a 4-stage CV pipeline (classify &rarr; detect &rarr; compress &rarr; adapt), a multi-agent sales pipeline, safety middleware for a Copilot-style API, model distillation, and multi-cloud LLM routing.
+Pinned below spans those areas &mdash; a voice assistant running fully on-device (Ollama + MLX Whisper), a 4-stage CV pipeline (classify &rarr; detect &rarr; compress &rarr; adapt), an on-device Apple product classifier shipped as a real SwiftUI/Core ML iOS app, a multi-agent sales pipeline, safety middleware for a Copilot-style API, and model distillation.
 
 **Portfolio:** [ariz-ahmad.dev](https://www.ariz-ahmad.dev/) &middot; **Resume:** [ariz-ahmad.dev/resume.pdf](https://www.ariz-ahmad.dev/resume.pdf) &middot; **Email:** ariz.ahmad.code@gmail.com
 
